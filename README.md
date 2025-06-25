@@ -1,4 +1,4 @@
-# Gold-Price-Prediction-Model-Using-Machine-Learning-in-Python
+# Gold Price Prediction Model Using Machine Learning in Python
 # Overview
 This project focuses on building a machine learning model to predict gold prices based on various economic indicators. Gold price is influenced by multiple global and financial factors, and this model leverages real-world data to create a predictive pipeline that can forecast gold prices with reasonable accuracy
 

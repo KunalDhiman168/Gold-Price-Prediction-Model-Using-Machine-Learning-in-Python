@@ -14,8 +14,7 @@ This project focuses on building a machine learning model to predict gold prices
 # Technologies Used
 - Tool/Library	Purpose <br>
 - Python (Core language) <br>
-- Pandas	(Data manipulatio0)n <br>
-- - NumPy	(Numerical operations)
+- Pandas	(Data manipulation) <br>
 - Scikit-learn	(ML models & evaluation) <br>
 - Matplotlib 	(Visualization) <br>
 - Jupyter Notebook	(Development environment) <br>
